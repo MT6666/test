@@ -55,8 +55,6 @@
 
 ![](https://uploader.shimo.im/f/b2Mou7gYMgsu4URO.gif)
 
-
-
 ### 5、智能释放
 
 1\) 智能释放默认开启
@@ -72,5 +70,5 @@
 
 ### 6、模板限制-通用限制![](https://uploader.shimo.im/f/eknxfx5BLQkvrshS.gif)
 
-
+![](/assets/gif短.gif)
 
