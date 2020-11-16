@@ -10,11 +10,11 @@
 
 1\) 通过设计器\[服务器\]&gt;\[平台管理\]进入本地决策平台
 
-![](https://uploader.shimo.im/f/mmi6FmsQuT6Q6VPc.png!thumbnail)
+![](https://uploader.shimo.im/f/mmi6FmsQuT6Q6VPc.png)
 
 2\) 通过\[管理\]&gt;\[智能运维\]&gt;\[资源迁移\]进入内存管理界面
 
-![](https://uploader.shimo.im/f/HLCsHMb6d8IHeRTj.png!thumbnail)
+![](https://uploader.shimo.im/f/HLCsHMb6d8IHeRTj.png)
 
 ### 2、资源导出
 
