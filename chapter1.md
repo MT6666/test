@@ -70,5 +70,15 @@
 
 ### 6、模板限制-通用限制![](https://uploader.shimo.im/f/eknxfx5BLQkvrshS.gif)
 
-![](/assets/gif短.gif)
+![](/assets/gif短.gif)I. Overview
+
+1\) SQL injection generally means to trigger background execution of SQL query through malicious parameter input, to obtain data or damage the database.
+
+2\) Anti-SQL Injection is aimed to prevent SQL injection by following methods:
+
+* Disable special keywords.
+
+* Escape some characters.
+
+Note: this feature only works for the FineReport templates.
 
