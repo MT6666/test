@@ -15,4 +15,5 @@
     * [json](data-preparation/other/json.md)
 * [ni hao](4-ni-hao.md)
   * [4.1 ni](4-ni-hao/41-ni.md)
+  * [4.2 hao](4-ni-hao/42-hao.md)
 
